@@ -1,6 +1,6 @@
 ## Project Overview
 
-This repository hosts a comparative benchmark analysis of six Large Language Models (LLMs) in detecting logical, syntax, and semantic errors within Python code snippets. The study evaluates proprietary models (GPT-5.2, Claude Sonnet 4.5, Gemini 2.5 Flash) and open-weights models (DeepSeek v3.2, Qwen3-Coder, GPT-OSS 120b) across Single-Label and Multi-Label classification tasks.
+This repository hosts a comparative benchmark analysis of six Large Language Models (LLMs) in detecting logical errors within Python code snippets. The study evaluates proprietary models (GPT-5.2, Claude Sonnet 4.5, Gemini 2.5 Flash) and open-weights models (DeepSeek v3.2, Qwen3-Coder, GPT-OSS 120b) across Single-Label and Multi-Label classification tasks.
 
 ## Repository Structure
 
