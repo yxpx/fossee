@@ -48,5 +48,3 @@ The analysis evaluates model performance against human-annotated Ground Truth (G
 2. **Performance Leader:** GPT-5.2 demonstrated the highest reliability (56.8% Jaccard Score) in complex multi-error scenarios.
 3. **Behavioral Divergence:** Models exhibit distinct profiles: Conservative models (e.g., Gemini) prioritize precision, while Aggressive models (e.g., Qwen/DeepSeek) prioritize recall at the cost of higher false positive rates.
 4. **Bias Detection:** A significant bias toward detecting Logical Errors (Category J) was observed across 5 of the 6 models tested.
-
-```
