@@ -65,7 +65,6 @@ A comparative study evaluating six Large Language Models on detecting logical er
 │    ├── exports/           # Analysis outputs & visualizations
 │    ├── manual_labels/     # Ground truth annotations
 │    ├── processed/         # Cleaned datasets
-│    └── raw/               # Original 100 code samples
 ├── reports/                # Final benchmarking report
 ├── results_run1/           # First evaluation run
 ├── results_run2/           # Second evaluation run
